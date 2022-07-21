@@ -2,3 +2,6 @@
 .vscode
 .vs
 node_modules/
+# modificações
+bin/
+
