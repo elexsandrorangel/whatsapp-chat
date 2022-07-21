@@ -3,5 +3,6 @@
 .vs
 node_modules/
 # modificações
-bin/
+#bin/
+# alteração 1
 
